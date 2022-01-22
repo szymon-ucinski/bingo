@@ -2,6 +2,6 @@
 
 **Run from console:**  
 `php index.php`  
-**Avaliable arguments:**  
+**Available arguments:**  
 `test` - solve for test input  
 `part:1` - solve only first part  
